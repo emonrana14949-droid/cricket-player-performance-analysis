@@ -1,0 +1,361 @@
+match_id,player,opponent,venue,runs,balls_faced,fours,sixes,dismissal,strike_rate,match_result
+M-001,Tamim Iqbal,Afghanistan,Neutral,45,66,3,0,Not Out,68.18,Lost
+M-002,Towhid Hridoy,West Indies,Home,27,38,3,0,Out,71.05,Lost
+M-003,Najmul Hossain Shanto,Pakistan,Home,56,60,4,2,Out,93.33,Lost
+M-004,Litton Das,West Indies,Home,0,7,0,0,Out,0.0,Won
+M-005,Litton Das,India,Away,16,24,1,0,Out,66.67,Lost
+M-006,Mahmudullah,England,Home,13,11,1,0,Not Out,118.18,Lost
+M-007,Tamim Iqbal,Australia,Away,0,1,0,0,Out,0.0,Won
+M-008,Najmul Hossain Shanto,Sri Lanka,Away,14,19,2,0,Out,73.68,Won
+M-009,Shakib Al Hasan,India,Home,16,21,1,0,Out,76.19,Won
+M-010,Tamim Iqbal,Afghanistan,Neutral,34,39,3,1,Out,87.18,Lost
+M-011,Litton Das,Sri Lanka,Away,58,62,4,2,Out,93.55,Lost
+M-012,Mahmudullah,New Zealand,Home,25,25,2,0,Out,100.0,Lost
+M-013,Towhid Hridoy,Australia,Home,9,12,1,0,Out,75.0,Won
+M-014,Towhid Hridoy,Sri Lanka,Home,31,34,3,0,Out,91.18,Won
+M-015,Towhid Hridoy,West Indies,Home,55,67,3,1,Not Out,82.09,Won
+M-016,Towhid Hridoy,India,Home,11,10,0,0,Out,110.0,Lost
+M-017,Litton Das,New Zealand,Neutral,14,20,1,0,Out,70.0,Lost
+M-018,Tamim Iqbal,New Zealand,Home,50,60,3,0,Not Out,83.33,Lost
+M-019,Towhid Hridoy,Australia,Home,27,27,2,0,Out,100.0,Lost
+M-020,Litton Das,Sri Lanka,Away,48,53,4,0,Out,90.57,Lost
+M-021,Litton Das,India,Away,34,36,3,0,Out,94.44,Lost
+M-022,Mushfiqur Rahim,West Indies,Neutral,52,71,4,1,Out,73.24,Won
+M-023,Shakib Al Hasan,West Indies,Away,13,13,1,0,Out,100.0,Won
+M-024,Mahmudullah,Pakistan,Away,30,44,2,0,Out,68.18,Won
+M-025,Towhid Hridoy,India,Home,27,35,2,0,Out,77.14,Won
+M-026,Najmul Hossain Shanto,India,Neutral,8,9,1,0,Out,88.89,Won
+M-027,Mushfiqur Rahim,India,Away,3,2,0,0,Out,150.0,Won
+M-028,Towhid Hridoy,Afghanistan,Neutral,47,29,4,1,Not Out,162.07,Lost
+M-029,Litton Das,West Indies,Home,26,26,2,0,Out,100.0,Won
+M-030,Litton Das,Pakistan,Neutral,12,14,0,0,Out,85.71,Lost
+M-031,Litton Das,New Zealand,Away,32,31,3,0,Out,103.23,Lost
+M-032,Shakib Al Hasan,Pakistan,Home,61,72,5,1,Out,84.72,Lost
+M-033,Tamim Iqbal,Sri Lanka,Away,0,3,0,0,Out,0.0,Lost
+M-034,Litton Das,England,Away,1,5,0,0,Out,20.0,Won
+M-035,Mahmudullah,New Zealand,Home,10,12,1,0,Out,83.33,Lost
+M-036,Tamim Iqbal,Afghanistan,Away,70,92,5,2,Out,76.09,Won
+M-037,Mahmudullah,India,Neutral,36,64,4,0,Not Out,56.25,Lost
+M-038,Towhid Hridoy,Pakistan,Home,49,73,3,0,Out,67.12,Won
+M-039,Shakib Al Hasan,Sri Lanka,Away,11,11,1,0,Out,100.0,Won
+M-040,Najmul Hossain Shanto,Sri Lanka,Home,10,10,1,0,Out,100.0,Lost
+M-041,Shakib Al Hasan,West Indies,Home,46,56,5,0,Not Out,82.14,Lost
+M-042,Towhid Hridoy,Afghanistan,Neutral,33,38,2,0,Out,86.84,Won
+M-043,Najmul Hossain Shanto,Sri Lanka,Away,47,49,3,2,Out,95.92,Lost
+M-044,Mushfiqur Rahim,West Indies,Home,33,37,5,0,Out,89.19,Won
+M-045,Tamim Iqbal,Australia,Neutral,44,64,3,0,Out,68.75,Lost
+M-046,Mahmudullah,England,Neutral,33,34,4,0,Out,97.06,Won
+M-047,Litton Das,Australia,Home,51,52,5,1,Out,98.08,Won
+M-048,Mahmudullah,Pakistan,Neutral,48,56,3,1,Out,85.71,Won
+M-049,Najmul Hossain Shanto,West Indies,Home,0,6,0,0,Out,0.0,Won
+M-050,Towhid Hridoy,India,Neutral,0,4,0,0,Not Out,0.0,Won
+M-051,Towhid Hridoy,Pakistan,Away,54,55,5,2,Out,98.18,Won
+M-052,Shakib Al Hasan,Pakistan,Away,62,63,6,2,Not Out,98.41,Won
+M-053,Mushfiqur Rahim,Sri Lanka,Home,15,14,1,0,Out,107.14,Won
+M-054,Litton Das,Pakistan,Neutral,0,6,0,0,Out,0.0,Lost
+M-055,Litton Das,India,Home,36,47,4,0,Out,76.6,Won
+M-056,Tamim Iqbal,New Zealand,Home,58,64,3,1,Out,90.62,Lost
+M-057,Litton Das,West Indies,Home,74,90,4,2,Out,82.22,Lost
+M-058,Shakib Al Hasan,India,Away,47,56,4,2,Out,83.93,Won
+M-059,Towhid Hridoy,Sri Lanka,Home,24,18,1,0,Out,133.33,Lost
+M-060,Najmul Hossain Shanto,England,Neutral,15,10,1,0,Out,150.0,Won
+M-061,Mahmudullah,West Indies,Away,30,31,2,1,Not Out,96.77,Won
+M-062,Towhid Hridoy,New Zealand,Home,25,32,2,0,Out,78.12,Lost
+M-063,Mushfiqur Rahim,Afghanistan,Home,15,21,1,0,Out,71.43,Lost
+M-064,Mahmudullah,England,Home,75,90,9,2,Out,83.33,Lost
+M-065,Mushfiqur Rahim,Australia,Away,76,89,5,2,Out,85.39,Won
+M-066,Mushfiqur Rahim,Pakistan,Neutral,62,72,5,0,Out,86.11,Lost
+M-067,Mahmudullah,Afghanistan,Home,10,17,0,0,Not Out,58.82,Won
+M-068,Mushfiqur Rahim,Afghanistan,Neutral,56,66,7,1,Not Out,84.85,Won
+M-069,Tamim Iqbal,India,Home,52,59,5,0,Not Out,88.14,Won
+M-070,Litton Das,New Zealand,Neutral,44,58,3,1,Out,75.86,Lost
+M-071,Towhid Hridoy,India,Neutral,59,63,4,0,Out,93.65,Won
+M-072,Shakib Al Hasan,New Zealand,Away,50,58,4,1,Out,86.21,Lost
+M-073,Litton Das,Afghanistan,Away,50,58,4,2,Out,86.21,Lost
+M-074,Tamim Iqbal,Pakistan,Neutral,52,67,6,0,Out,77.61,Lost
+M-075,Najmul Hossain Shanto,Australia,Home,42,53,5,1,Out,79.25,Lost
+M-076,Litton Das,India,Home,0,2,0,0,Out,0.0,Lost
+M-077,Mushfiqur Rahim,England,Home,39,40,3,1,Out,97.5,Won
+M-078,Shakib Al Hasan,West Indies,Away,24,24,2,1,Out,100.0,Won
+M-079,Litton Das,India,Away,6,8,0,0,Not Out,75.0,Lost
+M-080,Najmul Hossain Shanto,Australia,Away,72,121,5,1,Out,59.5,Won
+M-081,Mahmudullah,West Indies,Neutral,68,96,7,2,Out,70.83,Won
+M-082,Litton Das,Sri Lanka,Home,64,70,5,1,Out,91.43,Won
+M-083,Shakib Al Hasan,Pakistan,Away,42,51,3,1,Out,82.35,Won
+M-084,Towhid Hridoy,Australia,Home,62,55,6,2,Out,112.73,Won
+M-085,Najmul Hossain Shanto,England,Home,35,41,3,0,Out,85.37,Won
+M-086,Najmul Hossain Shanto,New Zealand,Away,39,36,3,0,Out,108.33,Lost
+M-087,Tamim Iqbal,Sri Lanka,Neutral,14,18,1,0,Out,77.78,Won
+M-088,Mushfiqur Rahim,West Indies,Away,46,51,3,1,Out,90.2,Lost
+M-089,Towhid Hridoy,England,Home,33,39,3,0,Out,84.62,Lost
+M-090,Towhid Hridoy,Sri Lanka,Away,3,1,0,0,Not Out,300.0,Won
+M-091,Litton Das,West Indies,Home,33,27,2,0,Out,122.22,Lost
+M-092,Towhid Hridoy,West Indies,Neutral,30,46,4,0,Not Out,65.22,Lost
+M-093,Towhid Hridoy,Australia,Away,72,113,5,1,Out,63.72,Lost
+M-094,Mushfiqur Rahim,India,Home,57,75,6,0,Out,76.0,Won
+M-095,Mahmudullah,England,Home,30,37,3,0,Out,81.08,Won
+M-096,Mushfiqur Rahim,England,Home,42,47,4,1,Out,89.36,Won
+M-097,Shakib Al Hasan,Pakistan,Neutral,37,33,2,1,Out,112.12,Lost
+M-098,Najmul Hossain Shanto,New Zealand,Away,31,38,3,0,Not Out,81.58,Lost
+M-099,Najmul Hossain Shanto,Afghanistan,Away,11,17,1,0,Out,64.71,Lost
+M-100,Tamim Iqbal,India,Away,35,37,2,1,Out,94.59,Lost
+M-101,Towhid Hridoy,New Zealand,Away,16,18,1,0,Not Out,88.89,Lost
+M-102,Shakib Al Hasan,Pakistan,Home,8,10,1,0,Not Out,80.0,Lost
+M-103,Towhid Hridoy,New Zealand,Neutral,43,49,3,1,Out,87.76,Won
+M-104,Tamim Iqbal,Australia,Home,47,56,3,0,Out,83.93,Lost
+M-105,Towhid Hridoy,India,Away,0,6,0,0,Out,0.0,Won
+M-106,Towhid Hridoy,West Indies,Away,29,32,2,0,Out,90.62,Won
+M-107,Towhid Hridoy,Pakistan,Away,54,58,3,1,Out,93.1,Lost
+M-108,Najmul Hossain Shanto,England,Neutral,58,60,5,2,Out,96.67,Lost
+M-109,Litton Das,Pakistan,Home,57,86,3,1,Out,66.28,Won
+M-110,Najmul Hossain Shanto,West Indies,Away,36,47,5,0,Not Out,76.6,Won
+M-111,Shakib Al Hasan,New Zealand,Home,17,19,2,0,Out,89.47,Won
+M-112,Towhid Hridoy,Afghanistan,Away,8,1,1,0,Out,800.0,Won
+M-113,Litton Das,Australia,Home,42,45,4,1,Out,93.33,Won
+M-114,Litton Das,Australia,Home,42,54,4,1,Out,77.78,Lost
+M-115,Litton Das,New Zealand,Home,62,73,7,2,Out,84.93,Lost
+M-116,Litton Das,Afghanistan,Home,58,72,4,1,Out,80.56,Won
+M-117,Tamim Iqbal,Afghanistan,Home,35,35,3,0,Out,100.0,Won
+M-118,Tamim Iqbal,India,Away,11,10,1,0,Out,110.0,Won
+M-119,Shakib Al Hasan,New Zealand,Away,29,29,2,1,Out,100.0,Won
+M-120,Tamim Iqbal,India,Home,43,57,2,1,Out,75.44,Lost
+M-121,Litton Das,Sri Lanka,Home,30,39,3,0,Out,76.92,Lost
+M-122,Najmul Hossain Shanto,Afghanistan,Home,22,36,1,0,Out,61.11,Lost
+M-123,Najmul Hossain Shanto,Sri Lanka,Away,41,52,6,0,Out,78.85,Won
+M-124,Litton Das,Afghanistan,Home,23,24,2,0,Out,95.83,Lost
+M-125,Towhid Hridoy,Australia,Home,18,26,1,0,Out,69.23,Won
+M-126,Litton Das,Pakistan,Home,41,51,3,0,Out,80.39,Won
+M-127,Tamim Iqbal,Sri Lanka,Away,29,42,2,0,Not Out,69.05,Lost
+M-128,Towhid Hridoy,England,Home,37,35,3,0,Out,105.71,Lost
+M-129,Najmul Hossain Shanto,Afghanistan,Away,41,43,3,0,Out,95.35,Lost
+M-130,Najmul Hossain Shanto,England,Away,10,16,0,0,Out,62.5,Lost
+M-131,Litton Das,West Indies,Away,23,28,2,0,Out,82.14,Lost
+M-132,Litton Das,Afghanistan,Away,66,65,4,2,Out,101.54,Lost
+M-133,Tamim Iqbal,Afghanistan,Away,12,17,1,0,Out,70.59,Won
+M-134,Litton Das,England,Home,0,5,0,0,Out,0.0,Won
+M-135,Towhid Hridoy,Sri Lanka,Away,0,2,0,0,Not Out,0.0,Won
+M-136,Mushfiqur Rahim,Australia,Away,38,56,3,0,Out,67.86,Won
+M-137,Najmul Hossain Shanto,India,Home,36,39,2,0,Out,92.31,Won
+M-138,Tamim Iqbal,Sri Lanka,Away,35,38,1,1,Out,92.11,Won
+M-139,Mushfiqur Rahim,West Indies,Home,64,72,7,1,Out,88.89,Lost
+M-140,Litton Das,Australia,Away,0,4,0,0,Out,0.0,Lost
+M-141,Mahmudullah,India,Away,39,35,4,1,Out,111.43,Lost
+M-142,Shakib Al Hasan,New Zealand,Neutral,70,68,5,2,Out,102.94,Won
+M-143,Shakib Al Hasan,West Indies,Neutral,11,11,1,0,Out,100.0,Lost
+M-144,Mushfiqur Rahim,Afghanistan,Away,29,30,2,0,Out,96.67,Won
+M-145,Mahmudullah,Sri Lanka,Away,13,8,1,0,Out,162.5,Won
+M-146,Towhid Hridoy,Australia,Away,12,9,1,0,Out,133.33,Won
+M-147,Tamim Iqbal,England,Home,31,44,3,1,Out,70.45,Won
+M-148,Shakib Al Hasan,Pakistan,Neutral,67,89,8,1,Out,75.28,Won
+M-149,Towhid Hridoy,Sri Lanka,Away,72,69,5,2,Out,104.35,Lost
+M-150,Tamim Iqbal,Pakistan,Home,31,44,2,1,Out,70.45,Lost
+M-151,Towhid Hridoy,West Indies,Home,74,99,6,3,Not Out,74.75,Lost
+M-152,Shakib Al Hasan,New Zealand,Neutral,37,45,3,0,Out,82.22,Won
+M-153,Mahmudullah,Afghanistan,Home,69,79,9,1,Not Out,87.34,Lost
+M-154,Mushfiqur Rahim,Afghanistan,Home,35,39,2,0,Out,89.74,Lost
+M-155,Litton Das,West Indies,Home,37,40,4,1,Out,92.5,Won
+M-156,Najmul Hossain Shanto,India,Home,43,54,4,1,Out,79.63,Lost
+M-157,Tamim Iqbal,West Indies,Home,108,144,5,2,Not Out,75.0,Won
+M-158,Litton Das,India,Away,53,63,5,1,Out,84.13,Won
+M-159,Litton Das,Australia,Home,18,17,1,0,Out,105.88,Won
+M-160,Towhid Hridoy,England,Neutral,53,52,6,1,Not Out,101.92,Lost
+M-161,Mahmudullah,Sri Lanka,Neutral,22,24,3,0,Out,91.67,Won
+M-162,Najmul Hossain Shanto,Pakistan,Home,24,30,3,0,Not Out,80.0,Won
+M-163,Mushfiqur Rahim,Pakistan,Home,57,71,5,2,Out,80.28,Won
+M-164,Mushfiqur Rahim,Afghanistan,Away,38,50,3,0,Out,76.0,Lost
+M-165,Mushfiqur Rahim,Sri Lanka,Home,43,78,4,0,Out,55.13,Won
+M-166,Towhid Hridoy,Sri Lanka,Home,32,40,3,0,Out,80.0,Won
+M-167,Mushfiqur Rahim,West Indies,Neutral,44,71,3,0,Not Out,61.97,Won
+M-168,Shakib Al Hasan,Pakistan,Neutral,45,77,5,0,Out,58.44,Lost
+M-169,Mushfiqur Rahim,West Indies,Away,0,8,0,0,Not Out,0.0,Lost
+M-170,Tamim Iqbal,West Indies,Home,53,55,4,1,Out,96.36,Lost
+M-171,Tamim Iqbal,England,Away,16,23,1,0,Out,69.57,Won
+M-172,Tamim Iqbal,Pakistan,Away,6,6,0,0,Out,100.0,Won
+M-173,Towhid Hridoy,Pakistan,Home,31,34,3,0,Out,91.18,Lost
+M-174,Towhid Hridoy,Sri Lanka,Away,34,32,3,1,Not Out,106.25,Won
+M-175,Najmul Hossain Shanto,England,Home,20,27,2,0,Out,74.07,Lost
+M-176,Litton Das,Pakistan,Home,52,46,3,1,Not Out,113.04,Lost
+M-177,Towhid Hridoy,Australia,Away,2,1,0,0,Not Out,200.0,Won
+M-178,Shakib Al Hasan,India,Home,27,36,3,0,Not Out,75.0,Lost
+M-179,Mahmudullah,England,Home,17,17,1,0,Out,100.0,Lost
+M-180,Litton Das,India,Neutral,33,31,2,1,Out,106.45,Won
+M-181,Mahmudullah,New Zealand,Neutral,36,45,3,0,Out,80.0,Won
+M-182,Shakib Al Hasan,India,Away,14,15,1,0,Out,93.33,Won
+M-183,Litton Das,Pakistan,Neutral,50,61,4,1,Not Out,81.97,Lost
+M-184,Najmul Hossain Shanto,Pakistan,Neutral,36,40,2,1,Out,90.0,Won
+M-185,Litton Das,Afghanistan,Home,0,2,0,0,Out,0.0,Won
+M-186,Litton Das,India,Home,0,4,0,0,Out,0.0,Lost
+M-187,Shakib Al Hasan,Australia,Home,36,42,4,1,Out,85.71,Won
+M-188,Mushfiqur Rahim,England,Home,32,36,3,1,Out,88.89,Won
+M-189,Shakib Al Hasan,England,Away,34,40,3,1,Out,85.0,Lost
+M-190,Mushfiqur Rahim,New Zealand,Home,36,32,3,1,Not Out,112.5,Won
+M-191,Najmul Hossain Shanto,Afghanistan,Away,40,40,3,0,Out,100.0,Won
+M-192,Najmul Hossain Shanto,Australia,Home,56,80,5,1,Out,70.0,Won
+M-193,Najmul Hossain Shanto,Afghanistan,Home,11,14,0,0,Out,78.57,Won
+M-194,Mushfiqur Rahim,Sri Lanka,Neutral,11,10,1,0,Out,110.0,Won
+M-195,Mahmudullah,West Indies,Home,6,6,0,0,Not Out,100.0,Lost
+M-196,Tamim Iqbal,England,Home,44,57,4,0,Out,77.19,Lost
+M-197,Mushfiqur Rahim,New Zealand,Home,64,82,8,1,Out,78.05,Won
+M-198,Tamim Iqbal,West Indies,Away,29,49,2,0,Out,59.18,Lost
+M-199,Mushfiqur Rahim,Afghanistan,Away,0,5,0,0,Not Out,0.0,Lost
+M-200,Mahmudullah,Afghanistan,Away,0,8,0,0,Out,0.0,Lost
+M-201,Mushfiqur Rahim,England,Home,19,21,1,0,Out,90.48,Lost
+M-202,Mahmudullah,India,Home,18,18,2,0,Out,100.0,Lost
+M-203,Litton Das,Australia,Neutral,25,29,3,0,Out,86.21,Lost
+M-204,Najmul Hossain Shanto,Pakistan,Away,36,41,2,0,Out,87.8,Won
+M-205,Litton Das,West Indies,Away,27,29,3,0,Out,93.1,Lost
+M-206,Shakib Al Hasan,Pakistan,Away,59,75,4,1,Not Out,78.67,Won
+M-207,Towhid Hridoy,Pakistan,Away,17,26,2,0,Out,65.38,Won
+M-208,Mahmudullah,Pakistan,Home,11,8,0,0,Out,137.5,Lost
+M-209,Shakib Al Hasan,New Zealand,Home,47,44,5,1,Not Out,106.82,Won
+M-210,Towhid Hridoy,England,Away,0,6,0,0,Out,0.0,Won
+M-211,Shakib Al Hasan,West Indies,Home,45,47,4,0,Out,95.74,Won
+M-212,Towhid Hridoy,Australia,Neutral,34,37,3,0,Not Out,91.89,Won
+M-213,Towhid Hridoy,Sri Lanka,Away,29,31,3,0,Out,93.55,Lost
+M-214,Litton Das,India,Away,69,81,8,1,Out,85.19,Lost
+M-215,Towhid Hridoy,India,Neutral,18,21,2,0,Out,85.71,Won
+M-216,Shakib Al Hasan,Sri Lanka,Away,81,97,5,1,Out,83.51,Won
+M-217,Tamim Iqbal,West Indies,Neutral,33,39,2,0,Out,84.62,Won
+M-218,Tamim Iqbal,England,Away,10,16,1,0,Out,62.5,Won
+M-219,Litton Das,West Indies,Neutral,36,36,2,1,Out,100.0,Lost
+M-220,Mahmudullah,India,Home,6,10,0,0,Out,60.0,Lost
+M-221,Tamim Iqbal,India,Away,21,17,2,0,Out,123.53,Won
+M-222,Litton Das,Afghanistan,Away,43,36,5,1,Out,119.44,Won
+M-223,Najmul Hossain Shanto,India,Home,47,59,3,0,Out,79.66,Lost
+M-224,Shakib Al Hasan,India,Home,22,24,1,0,Out,91.67,Lost
+M-225,Towhid Hridoy,Australia,Neutral,54,66,5,2,Not Out,81.82,Won
+M-226,Mushfiqur Rahim,West Indies,Away,62,77,8,1,Out,80.52,Won
+M-227,Towhid Hridoy,New Zealand,Home,64,72,3,2,Not Out,88.89,Won
+M-228,Najmul Hossain Shanto,India,Home,47,48,4,0,Out,97.92,Lost
+M-229,Litton Das,Afghanistan,Home,64,64,4,2,Out,100.0,Won
+M-230,Shakib Al Hasan,Afghanistan,Home,0,6,0,0,Out,0.0,Won
+M-231,Litton Das,Afghanistan,Neutral,27,20,2,0,Out,135.0,Lost
+M-232,Towhid Hridoy,West Indies,Home,13,22,1,0,Out,59.09,Lost
+M-233,Tamim Iqbal,Pakistan,Home,41,64,3,0,Out,64.06,Won
+M-234,Towhid Hridoy,West Indies,Away,19,21,2,0,Out,90.48,Won
+M-235,Litton Das,Sri Lanka,Home,30,27,2,0,Out,111.11,Won
+M-236,Towhid Hridoy,Afghanistan,Home,73,79,4,1,Out,92.41,Lost
+M-237,Najmul Hossain Shanto,England,Away,31,45,4,0,Out,68.89,Won
+M-238,Litton Das,Afghanistan,Away,43,49,3,1,Out,87.76,Lost
+M-239,Mushfiqur Rahim,New Zealand,Neutral,32,29,2,1,Out,110.34,Lost
+M-240,Najmul Hossain Shanto,New Zealand,Away,37,37,3,0,Not Out,100.0,Lost
+M-241,Tamim Iqbal,England,Away,38,44,6,0,Out,86.36,Lost
+M-242,Najmul Hossain Shanto,Afghanistan,Away,45,60,4,1,Out,75.0,Won
+M-243,Tamim Iqbal,New Zealand,Neutral,64,84,5,3,Out,76.19,Won
+M-244,Najmul Hossain Shanto,Pakistan,Away,71,118,6,0,Out,60.17,Lost
+M-245,Najmul Hossain Shanto,Afghanistan,Neutral,42,47,4,0,Not Out,89.36,Won
+M-246,Tamim Iqbal,England,Away,51,51,3,1,Out,100.0,Won
+M-247,Towhid Hridoy,Sri Lanka,Neutral,7,11,0,0,Out,63.64,Won
+M-248,Mushfiqur Rahim,England,Home,35,41,3,0,Out,85.37,Won
+M-249,Towhid Hridoy,West Indies,Away,53,72,2,1,Out,73.61,Won
+M-250,Tamim Iqbal,Afghanistan,Home,57,81,4,1,Not Out,70.37,Lost
+M-251,Shakib Al Hasan,Afghanistan,Away,41,53,2,1,Out,77.36,Lost
+M-252,Litton Das,Australia,Away,54,74,5,0,Out,72.97,Lost
+M-253,Shakib Al Hasan,Afghanistan,Neutral,47,49,4,0,Out,95.92,Lost
+M-254,Mushfiqur Rahim,Australia,Neutral,63,73,4,1,Out,86.3,Won
+M-255,Najmul Hossain Shanto,New Zealand,Home,41,54,5,0,Out,75.93,Lost
+M-256,Shakib Al Hasan,New Zealand,Away,28,46,3,0,Out,60.87,Lost
+M-257,Najmul Hossain Shanto,Pakistan,Away,42,58,4,0,Out,72.41,Won
+M-258,Tamim Iqbal,Sri Lanka,Home,0,4,0,0,Out,0.0,Lost
+M-259,Shakib Al Hasan,India,Home,44,81,4,1,Out,54.32,Won
+M-260,Najmul Hossain Shanto,Pakistan,Home,0,4,0,0,Not Out,0.0,Won
+M-261,Towhid Hridoy,Australia,Away,0,1,0,0,Out,0.0,Won
+M-262,Shakib Al Hasan,Australia,Away,46,42,5,1,Out,109.52,Won
+M-263,Mushfiqur Rahim,Pakistan,Neutral,48,64,4,1,Out,75.0,Won
+M-264,Mahmudullah,Australia,Away,4,6,0,0,Out,66.67,Lost
+M-265,Mahmudullah,England,Neutral,14,15,2,0,Out,93.33,Lost
+M-266,Najmul Hossain Shanto,Pakistan,Home,65,56,3,1,Out,116.07,Won
+M-267,Litton Das,Sri Lanka,Away,23,28,2,0,Out,82.14,Lost
+M-268,Mushfiqur Rahim,Sri Lanka,Home,86,98,7,3,Out,87.76,Won
+M-269,Najmul Hossain Shanto,England,Away,35,50,4,1,Out,70.0,Lost
+M-270,Najmul Hossain Shanto,Sri Lanka,Neutral,44,43,5,0,Not Out,102.33,Won
+M-271,Mushfiqur Rahim,New Zealand,Neutral,73,93,4,1,Out,78.49,Won
+M-272,Tamim Iqbal,Sri Lanka,Neutral,41,51,3,1,Not Out,80.39,Lost
+M-273,Shakib Al Hasan,Australia,Home,14,14,1,0,Out,100.0,Lost
+M-274,Mahmudullah,Australia,Home,28,49,3,0,Not Out,57.14,Lost
+M-275,Mushfiqur Rahim,Pakistan,Home,36,40,4,0,Out,90.0,Lost
+M-276,Litton Das,New Zealand,Home,4,6,0,0,Out,66.67,Lost
+M-277,Litton Das,Pakistan,Away,28,27,4,0,Out,103.7,Won
+M-278,Towhid Hridoy,Sri Lanka,Away,16,23,2,0,Out,69.57,Won
+M-279,Tamim Iqbal,Afghanistan,Away,58,72,5,1,Out,80.56,Won
+M-280,Tamim Iqbal,West Indies,Neutral,39,46,3,1,Out,84.78,Won
+M-281,Shakib Al Hasan,New Zealand,Away,30,44,2,1,Out,68.18,Won
+M-282,Litton Das,West Indies,Neutral,32,34,3,1,Out,94.12,Won
+M-283,Najmul Hossain Shanto,Afghanistan,Home,40,38,3,0,Out,105.26,Won
+M-284,Litton Das,Australia,Home,48,47,4,1,Out,102.13,Lost
+M-285,Litton Das,Afghanistan,Away,12,8,1,0,Out,150.0,Won
+M-286,Mahmudullah,Sri Lanka,Neutral,7,8,1,0,Out,87.5,Lost
+M-287,Shakib Al Hasan,Australia,Home,60,63,6,1,Not Out,95.24,Lost
+M-288,Najmul Hossain Shanto,England,Away,26,35,2,0,Out,74.29,Won
+M-289,Litton Das,West Indies,Away,3,1,0,0,Out,300.0,Won
+M-290,Litton Das,Afghanistan,Home,44,48,3,1,Out,91.67,Lost
+M-291,Towhid Hridoy,Australia,Home,42,49,4,1,Out,85.71,Lost
+M-292,Shakib Al Hasan,New Zealand,Neutral,2,1,0,0,Not Out,200.0,Won
+M-293,Mahmudullah,Pakistan,Away,35,41,2,0,Out,85.37,Won
+M-294,Mushfiqur Rahim,Afghanistan,Home,53,61,5,2,Out,86.89,Lost
+M-295,Litton Das,England,Neutral,42,52,4,1,Not Out,80.77,Lost
+M-296,Litton Das,England,Home,48,45,2,1,Not Out,106.67,Won
+M-297,Towhid Hridoy,Afghanistan,Neutral,1,1,0,0,Out,100.0,Won
+M-298,Litton Das,New Zealand,Home,41,48,3,2,Out,85.42,Lost
+M-299,Shakib Al Hasan,India,Away,29,32,3,0,Out,90.62,Won
+M-300,Tamim Iqbal,Sri Lanka,Home,27,33,1,1,Out,81.82,Lost
+M-301,Mushfiqur Rahim,Pakistan,Home,56,67,4,1,Out,83.58,Won
+M-302,Towhid Hridoy,New Zealand,Neutral,65,60,5,1,Out,108.33,Lost
+M-303,Tamim Iqbal,India,Home,77,118,4,1,Out,65.25,Won
+M-304,Mahmudullah,Pakistan,Home,59,70,6,1,Out,84.29,Won
+M-305,Litton Das,England,Home,32,24,2,0,Not Out,133.33,Lost
+M-306,Tamim Iqbal,New Zealand,Away,46,53,3,0,Out,86.79,Won
+M-307,Mushfiqur Rahim,England,Neutral,54,66,5,1,Out,81.82,Lost
+M-308,Litton Das,Afghanistan,Neutral,37,40,4,1,Out,92.5,Won
+M-309,Mushfiqur Rahim,West Indies,Home,40,52,4,1,Out,76.92,Lost
+M-310,Tamim Iqbal,Pakistan,Home,56,67,5,1,Out,83.58,Lost
+M-311,Najmul Hossain Shanto,West Indies,Home,34,45,3,0,Out,75.56,Lost
+M-312,Najmul Hossain Shanto,England,Away,19,16,2,0,Out,118.75,Won
+M-313,Tamim Iqbal,New Zealand,Neutral,29,45,2,0,Not Out,64.44,Lost
+M-314,Shakib Al Hasan,India,Away,50,57,4,1,Out,87.72,Lost
+M-315,Shakib Al Hasan,England,Away,36,47,4,0,Out,76.6,Lost
+M-316,Najmul Hossain Shanto,New Zealand,Home,42,47,3,1,Out,89.36,Won
+M-317,Towhid Hridoy,England,Neutral,47,59,5,1,Out,79.66,Won
+M-318,Towhid Hridoy,India,Away,24,21,3,0,Out,114.29,Won
+M-319,Mahmudullah,England,Home,47,50,3,0,Not Out,94.0,Lost
+M-320,Towhid Hridoy,West Indies,Home,40,40,4,0,Out,100.0,Lost
+M-321,Mushfiqur Rahim,New Zealand,Home,10,15,0,0,Out,66.67,Won
+M-322,Tamim Iqbal,Pakistan,Home,70,76,5,1,Out,92.11,Lost
+M-323,Najmul Hossain Shanto,West Indies,Home,24,26,2,0,Out,92.31,Lost
+M-324,Mahmudullah,West Indies,Away,0,2,0,0,Out,0.0,Won
+M-325,Mahmudullah,Pakistan,Away,7,7,0,0,Not Out,100.0,Won
+M-326,Shakib Al Hasan,Afghanistan,Home,14,18,1,0,Out,77.78,Lost
+M-327,Shakib Al Hasan,Australia,Home,37,35,4,1,Out,105.71,Lost
+M-328,Tamim Iqbal,England,Neutral,32,37,2,0,Out,86.49,Won
+M-329,Tamim Iqbal,Australia,Away,31,34,2,0,Out,91.18,Lost
+M-330,Litton Das,Afghanistan,Away,48,43,5,0,Out,111.63,Lost
+M-331,Litton Das,West Indies,Home,41,36,3,0,Out,113.89,Lost
+M-332,Mushfiqur Rahim,Afghanistan,Neutral,44,93,4,0,Out,47.31,Lost
+M-333,Mushfiqur Rahim,West Indies,Home,46,59,4,2,Out,77.97,Lost
+M-334,Towhid Hridoy,West Indies,Home,46,48,4,0,Out,95.83,Lost
+M-335,Litton Das,India,Neutral,0,8,0,0,Out,0.0,Won
+M-336,Towhid Hridoy,Sri Lanka,Away,24,24,3,0,Out,100.0,Lost
+M-337,Mahmudullah,New Zealand,Away,0,6,0,0,Out,0.0,Won
+M-338,Mushfiqur Rahim,England,Away,38,54,3,1,Out,70.37,Lost
+M-339,Shakib Al Hasan,India,Away,36,38,3,0,Not Out,94.74,Won
+M-340,Mahmudullah,India,Home,53,79,4,2,Out,67.09,Lost
+M-341,Najmul Hossain Shanto,England,Home,61,77,3,1,Out,79.22,Won
+M-342,Mushfiqur Rahim,England,Home,41,38,3,1,Out,107.89,Won
+M-343,Najmul Hossain Shanto,Pakistan,Home,24,29,3,0,Out,82.76,Won
+M-344,Litton Das,Pakistan,Neutral,45,43,3,2,Out,104.65,Lost
+M-345,Mahmudullah,Pakistan,Home,18,35,1,0,Out,51.43,Lost
+M-346,Shakib Al Hasan,England,Away,36,35,4,0,Out,102.86,Won
+M-347,Mahmudullah,India,Away,52,65,2,1,Out,80.0,Lost
+M-348,Mahmudullah,England,Away,18,30,1,0,Out,60.0,Lost
+M-349,Shakib Al Hasan,Australia,Home,54,54,2,1,Out,100.0,Won
+M-350,Shakib Al Hasan,Australia,Away,51,72,5,1,Out,70.83,Lost
+M-351,Litton Das,New Zealand,Neutral,13,8,1,0,Out,162.5,Won
+M-352,Tamim Iqbal,England,Away,59,73,5,2,Out,80.82,Won
+M-353,Mushfiqur Rahim,New Zealand,Neutral,52,62,4,0,Out,83.87,Lost
+M-354,Litton Das,Afghanistan,Neutral,36,37,3,1,Out,97.3,Won
+M-355,Mahmudullah,West Indies,Away,13,15,1,0,Out,86.67,Lost
+M-356,Mahmudullah,Afghanistan,Home,11,12,0,0,Out,91.67,Lost
+M-357,Shakib Al Hasan,England,Away,24,23,1,0,Out,104.35,Lost
+M-358,Mahmudullah,Australia,Home,42,50,1,1,Not Out,84.0,Lost
+M-359,Tamim Iqbal,Pakistan,Away,17,18,2,0,Out,94.44,Lost
+M-360,Towhid Hridoy,England,Neutral,42,52,4,0,Out,80.77,Lost
